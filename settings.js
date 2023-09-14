@@ -7,28 +7,28 @@ global.apikeys = 'Apikeylu'
 // • https://api.xyroinee.xyz
 
 // Info Owner
-global.owner = ['6285760451683']
-global.nomorown = "6285760451683"
-global.ownername = "Xyroınee-ID."
-global.ownerNumber = ["6285760451683@s.whatsapp.net"]
-global.creator = "6285760451683@s.whatsapp.net"
-global.author = "Clara - MD"
+global.owner = ['2349038303472']
+global.nomorown = "2349038303472"
+global.ownername = "Prince-walex."
+global.ownerNumber = ["2349038303472@s.whatsapp.net"]
+global.creator = "2349038303472@s.whatsapp.net"
+global.author = "Walex - MD"
 global.location = "Indonesia"
 
 //Bot Setting
-global.botname = "Clara - MD"
-global.wm = "Follow Instagram: danilelistz02"
-global.packname = "Sticker By"
+global.botname = "qhingthuth - MD"
+global.wm = "Follow Instagram: qhingthuth"
+global.packname = "Sticker By Prince Walex"
 global.prefa = ['','!','.','#','&','`']
 global.hituet = 0
 
 // Social Media
 global.yt = "https://www.youtube.com/@Xyroinee"
-global.gh = "https://github.com/Xyroinee"
-global.ig = "https://instagram.com/danilelistz02"
-global.fb = "https://facebook.com/danilelistz19"
+global.gh = "https://github.com/Qhingthuth"
+global.ig = "https://instagram.com/qhingthuth"
+global.fb = "https://facebook.com/thanks.for.copying"
 global.web = "https://api.xyroinee.xyz"
-global.gcwa = "https://chat.whatsapp.com/LAWdMIQri9SKee5kqmISH0"
+global.gcwa = "https://chat.whatsapp.com/GkXFNCI8RuIBrprFApZcN6"
 
 // Foto Bot
 global.thumb = fs.readFileSync("./media/clara.jpg")
